@@ -69,7 +69,7 @@
                 </executions>
             </plugin>    
         </plugins>
-        <finalName>spring-boot-docker</finalName>
+        <finalName>my-spring-boot-application</finalName>
     </build>
 
 </project>

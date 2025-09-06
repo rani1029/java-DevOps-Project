@@ -43,9 +43,9 @@
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
-            <version>4.13.2</version>  <!-- latest as of 2025 -->
-            <scope>test</scope>
+            <version>4.13.2</version>
         </dependency>
+
 
     </dependencies>
 

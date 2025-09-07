@@ -86,5 +86,14 @@
         </plugins>
         <finalName>my-spring-boot-application</finalName>
     </build>
-
+    <distributionManagement>
+        <repository>
+            <id>nexus</id>
+            <url>http://44.202.52.174:8081/repository/maven-releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>nexus</id>
+            <url>http://44.202.52.174:8081/repository/maven-snapshots/</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
